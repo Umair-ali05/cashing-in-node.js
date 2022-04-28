@@ -1,0 +1,19 @@
+{
+  "name": "node-cashing",
+  "version": "1.0.0",
+  "description": "node cashing concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cashe"
+  ],
+  "author": "umair ali",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.0",
+    "redis": "^3.0.0"
+  }
+}
